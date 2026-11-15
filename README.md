@@ -487,7 +487,7 @@ For licensing or commercial inquiries, contact the developer.
 
 **Engineering tools. Building infrastructure. Creating solutions.**
 
-[GitHub](https://github.com/ItzMePara9)
+[GitHub](https://github.com/ItzMePara9/Fampay-Gateway-Paymenter)
 
 <br>
 
