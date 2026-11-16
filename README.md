@@ -153,7 +153,7 @@ imap
 Upload or clone the `FampayGateway` directory into your Paymenter extensions directory.
 
 ```text
-/var/www/paymenter/extensions/Gateways/FampayGateway/
+git clone https://github.com/ItzMePara9/Fampay-Gateway-Paymenter /var/www/paymenter/extensions/Gateways/Fampay-Gateway-Paymenter
 ```
 
 Ensure the extension structure is correct and all files are uploaded.
